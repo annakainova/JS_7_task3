@@ -1,0 +1,30 @@
+{
+  "user1": {
+    "id": 35,
+    "username": "Alex",
+    "email": "Alex@gmail.com",
+    "password": "123",
+    "userStatus": 0
+  },
+  "user2": {
+    "id": 40,
+    "username": "Max",
+    "email": "Max@gmail.com",
+    "password": "345",
+    "userStatus": 0
+  },
+  "updated_user2": {
+    "id": 40,
+    "username": "Max",
+    "email": "MaxNew@gmail.com",
+    "password": "567",
+    "userStatus": 0
+  },
+  "user3": {
+    "id": 50,
+    "username": "Anna",
+    "email": "Anna@gmail.com",
+    "password": "678",
+    "userStatus": 0
+  }
+}
